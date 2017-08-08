@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MathFuncDll.cpp
+c:\users\iali\documents\visual studio 2015\projects\win32project1\mathfuncdll\mathfuncdll.cpp(21): warning C4297: 'MathFuncs::Divide': function assumed not to throw an exception but does
+  c:\users\iali\documents\visual studio 2015\projects\win32project1\mathfuncdll\mathfuncdll.cpp(21): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+     Creating library c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\Debug\MathFuncDll.lib and object c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\Debug\MathFuncDll.exp
+  MathFuncDll.vcxproj -> c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\Debug\MathFuncDll.dll
+  MathFuncDll.vcxproj -> c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\Debug\MathFuncDll.pdb (Full PDB)

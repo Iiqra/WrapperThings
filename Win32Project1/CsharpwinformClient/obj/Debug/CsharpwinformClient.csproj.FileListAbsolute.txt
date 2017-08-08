@@ -1,0 +1,3 @@
+c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\CsharpwinformClient\obj\Debug\CsharpwinformClient.Form1.resources
+c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\CsharpwinformClient\obj\Debug\CsharpwinformClient.Properties.Resources.resources
+c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\CsharpwinformClient\obj\Debug\CsharpwinformClient.csproj.GenerateResource.Cache

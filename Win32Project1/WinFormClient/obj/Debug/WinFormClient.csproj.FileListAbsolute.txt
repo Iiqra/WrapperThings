@@ -1,0 +1,9 @@
+c:\users\iali\documents\visual studio 2015\Projects\Win32Project1\WinFormClient\bin\Debug\WinFormClient.exe.config
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\bin\Debug\WinFormClient.exe
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\bin\Debug\WinFormClient.pdb
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\obj\Debug\WinFormClient.csprojResolveAssemblyReference.cache
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\obj\Debug\WinFormClient.Form1.resources
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\obj\Debug\WinFormClient.Properties.Resources.resources
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\obj\Debug\WinFormClient.csproj.GenerateResource.Cache
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\obj\Debug\WinFormClient.exe
+C:\Users\iali\Documents\Visual Studio 2015\Projects\Win32Project1\WinFormClient\obj\Debug\WinFormClient.pdb
